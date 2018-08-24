@@ -40,4 +40,5 @@
 38. [二叉树的深度](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem38/Solution.java)
 39. [平衡二叉树](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem39/Solution.java)
 40. [数组中只出现一次的数字](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem40/Solution.java)
+41. [和为S的连续正数序列](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem41/Solution.java)
 
