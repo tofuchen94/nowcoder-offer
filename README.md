@@ -38,4 +38,5 @@
 36. [数字在排序数组中出现的次数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem36/Solution.java)
 37. [把数组排成最小的数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem37/Solution.java)
 38. [二叉树的深度](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem38/Solution.java)
+39. [平衡二叉树](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem39/Solution.java)
 
