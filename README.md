@@ -36,4 +36,6 @@
 34. [数组中的逆序对](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem34/Solution.java)
 35. [两个链表的第一个公共结点](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem35/Solution.java)
 36. [数字在排序数组中出现的次数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem36/Solution.java)
+37. [把数组排成最小的数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem37/Solution.java)
+38. [二叉树的深度](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem38/Solution.java)
 
