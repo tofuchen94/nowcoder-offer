@@ -48,4 +48,5 @@
 46. [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem46/Solution.java)
 47. [求1+2+...+n](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem47/Solution.java)
 48. [不用加减乘除做加法](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem48/Solution.java)
+49. [把字符串转换成整数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem49/Solution.java)
 
