@@ -45,4 +45,5 @@
 43. [左旋转字符串](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem43/Solution.java)
 44. [翻转单词顺序列](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem44/Solution.java)
 45. [扑克牌顺子](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem45/Solution.java)
+46. [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem46/Solution.java)
 
