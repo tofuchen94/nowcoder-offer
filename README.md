@@ -42,5 +42,6 @@
 40. [数组中只出现一次的数字](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem40/Solution.java)
 41. [和为S的连续正数序列](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem41/Solution.java)
 42. [和为S的两个数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem42/Solution.java)
-42. [左旋转字符串](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem43/Solution.java)
+43. [左旋转字符串](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem43/Solution.java)
+44. [翻转单词顺序列](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem44/Solution.java)
 
