@@ -54,4 +54,5 @@
 52. [正则表达式匹配](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem52/Solution.java)
 53. [表示数值的字符串](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem53/Solution.java)
 54. [字符流中第一个出现的字符](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem54/Solution.java)
+55. [链表环的入口节点](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem55/Solution.java)
 
