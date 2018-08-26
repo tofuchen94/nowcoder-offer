@@ -52,4 +52,5 @@
 50. [数组中重复的数字](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem50/Solution.java)
 51. [构建乘积数组](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem51/Solution.java)
 52. [正则表达式匹配](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem52/Solution.java)
+53. [表示数值的字符串](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem53/Solution.java)
 
