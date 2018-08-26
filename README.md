@@ -51,4 +51,5 @@
 49. [把字符串转换成整数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem49/Solution.java)
 50. [数组中重复的数字](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem50/Solution.java)
 51. [构建乘积数组](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem51/Solution.java)
+52. [正则表达式匹配](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem52/Solution.java)
 
