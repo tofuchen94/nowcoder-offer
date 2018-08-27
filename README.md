@@ -65,4 +65,5 @@
 63. [数据流中的中位数](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem63/Solution.java)
 64. [滑动窗口的最大值](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem64/Solution.java)
 65. [矩阵中的路径](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem65/Solution.java)
+66. [机器人的运动范围](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem66/Solution.java)
 
