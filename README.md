@@ -55,4 +55,5 @@
 53. [表示数值的字符串](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem53/Solution.java)
 54. [字符流中第一个出现的字符](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem54/Solution.java)
 55. [链表环的入口节点](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem55/Solution.java)
+56. [删除链表中的重复节点](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem56/Solution.java)
 
