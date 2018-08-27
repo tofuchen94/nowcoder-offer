@@ -58,4 +58,5 @@
 56. [删除链表中的重复节点](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem56/Solution.java)
 57. [二叉树中的下一个节点](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem57/Solution.java)
 58. [对称的二叉树](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem58/Solution.java)
+59. [按之字形顺序打印二叉树](https://github.com/tofuchen94/nowcoder-offer/blob/master/src/com/nowcoder/problem59/Solution.java)
 
